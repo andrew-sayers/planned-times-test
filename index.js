@@ -4,8 +4,8 @@
 const outputs = {
     /* will set this key...     ... to this value */
     "branch-regexp"           : "^maint-",
-    "maintenance-window-start": "2021-08-14T16:00:00Z",
-    "maintenance-window-end"  : "2021-08-14T17:00:00Z",
+    "maintenance-window-start": "2021-08-14T09:00:00Z",
+    "maintenance-window-end"  : "2021-08-14T10:00:00Z",
     "maintenance-url"         : "https://github.com/andrew-sayers/internal-tools/issues/1",
 };
 
